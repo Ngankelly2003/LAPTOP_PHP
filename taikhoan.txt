@@ -1,0 +1,4 @@
+admin:
+tài khoản: luongthetai;
+mật khẩu: 123456789;
+user: Đăng kí trên website;
